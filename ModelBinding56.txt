@@ -1,0 +1,2 @@
+https://localhost:7021/Home/Details/5?name=Ammad
+https://localhost:7021/Home/Details?name=Ammad&id=10
